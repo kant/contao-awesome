@@ -1,6 +1,6 @@
 # Contao Awesome
 
-This is an unoffical collection of awesome ressources about the Contao CMS ecosystem.
+This is an unoffical collection of awesome resources about the Contao CMS ecosystem.
 
 ## Your help is welcome!
 If you like to support this project just create issues or even better, pull requests!
@@ -8,7 +8,7 @@ If you like to support this project just create issues or even better, pull requ
 ## General Contao CMS websites
 
 ### Contao CMS Website | https://contao.org
-The offficial Contao CMS website with news, downloads, introductions, partner programm and many more. This is the perfect start for everyone who get in touch with the Contao CMS.
+The official Contao CMS website with news, downloads, introductions, partner programm and many more. This is the perfect start for everyone who get in touch with the Contao CMS.
 
 ### Documentation | https://docs.contao.org
 The documentaion is the right place for advanced developers.
@@ -16,7 +16,7 @@ The documentaion is the right place for advanced developers.
 ## Community Support, Wikis and Boards
 
 ### Official German Community board | https://community.contao.org
-Contao has a big and awesome community in the german location. If you neeed support, help or you like to help other people to solve problems, this is the right place for you.
+Contao has a big and awesome community in the german location. If you need support, help or you like to help other people to solve problems, this is the right place for you.
 
 ### Official International English board | https://community.contao.org/en/
 This ist the right place for international board topics.
@@ -33,27 +33,27 @@ The Contao Association is the official organization behind the Contao CMS.
 The CCA is an independent inofficial organization that supports the Contao CMS. They developed the Contao Composer Client and resolving security issues.
 
 ### Contao Pool | https://contao-pool.de/
-The Contao Pool is a network of people who work with Contao CMS located in the german state Nordrhein Westphalen. They organize the locale meetupus and the NRW Day.
+The Contao Pool is a network of people who work with Contao CMS located in the german state Nordrhein Westphalen. They organize the locale meetups and the NRW Day.
 
 ## Events
 
 ### Contao Conference (powered by Contao Association) | https://www.contao-konferenz.de/
-The official Contao Confernece is the yearly repeating main event with cool international speakers and the right place to meet up the awesome community of the Contao CMS.
+The official Contao Conference is the yearly repeating main event with cool international speakers and the right place to meet up the awesome community of the Contao CMS.
 
 ### Contao Camp (powered by Contao Association) | https://contao.camp/
-This ist the official barcamp of the Contao CMS. The subjects for the two days where chosen by the participants. 
+This is the official barcamp of the Contao CMS. The subjects for the two days where chosen by the participants. 
 
 ### Contao Nordtag (powered by Contao Association) | http://contao-nordtag.de/
 The Contao Nordtag is an official regional event in Hamburg Germany. It is organized by north community. It is a one day mini conference with awesome speakers.
 
 ### Contao Agenturtag | https://www.contao-agenturtag.de
-This is an inofficial Contao Event organized by trilobit GmbH and Thomas Weitzel. The event is right for freelancers and agency members.
+This is an unofficial Contao Event organized by trilobit GmbH and Thomas Weitzel. The event is right for freelancers and agency members.
 
 ### Contao NRW Day | https://nrw-day.de/
-The Contao NRW Day is one of the oldest inoffical community events in the Contao universe. The event is located in the german south west state Nordrhein Westphalen.
+The Contao NRW Day is one of the oldest unoffical community events in the Contao universe. The event is located in the german south west state Nordrhein Westphalen.
 
 ### Contao Austria Day | http://www.contao-austriaday.at/
-The Contao Austria Day is a inofficial community driven event by the austrian Contao Community. 
+The Contao Austria Day is a unofficial community driven event by the austrian Contao Community. 
 
 ## Blogs & Tutorials
 If you find your blog in this list and like to add more informations, just create an issue or pull request!
